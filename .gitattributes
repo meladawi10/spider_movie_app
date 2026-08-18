@@ -1,8 +1,1 @@
-* linguist-generated=false
-/lib/* linguist-generated=false
-/windows/* linguist-generated=true
-/linux/* linguist-generated=true
-/macos/* linguist-generated=true
-/android/* linguist-generated=true
-/ios/* linguist-generated=true
-/web/* linguist-generated=true
+windows/** linguist-vendored

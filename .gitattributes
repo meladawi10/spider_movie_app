@@ -1,6 +1,8 @@
-/windows/* linguist-generated
-/linux/* linguist-generated
-/macos/* linguist-generated
-/android/* linguist-generated
-/ios/* linguist-generated
-/web/* linguist-generated
+* linguist-generated=false
+/lib/* linguist-generated=false
+/windows/* linguist-generated=true
+/linux/* linguist-generated=true
+/macos/* linguist-generated=true
+/android/* linguist-generated=true
+/ios/* linguist-generated=true
+/web/* linguist-generated=true

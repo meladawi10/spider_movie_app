@@ -46,3 +46,8 @@ spider_man/
 │
 ├── pubspec.yaml
 └── README.md
+
+👨‍💻 Author
+Mohamed Eladawi
+
+Flutter Developer & Mechatronics Technology Student
